@@ -10,5 +10,5 @@ int main() {
 		queue.dequeue();
 		queue.enqueue(5);
 		queue.dequeue();
-		queue.show();
+		queue.showQueue();
 }
