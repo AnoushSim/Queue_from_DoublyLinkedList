@@ -1,7 +1,7 @@
 #ifndef QUEUE
 #define QUEUE
 
-#include "List.h"
+#include "DoublyLinkedList.h"
 
 template <typename T>
 class Queue : private DoublyList<T> 
